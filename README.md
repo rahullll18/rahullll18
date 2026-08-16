@@ -328,16 +328,6 @@ Add your actual coding-profile usernames before publishing these links.
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahullll18&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
