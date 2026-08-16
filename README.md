@@ -20,15 +20,12 @@
 <a href="https://github.com/rahullll18">
 <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-0F766E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/rahulll18">
 <img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:rahullllsingh1802@gmail.com">
 <img src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/rahullll18">
 <img src="https://img.shields.io/badge/GitHub-164E63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -57,12 +54,12 @@ Currently, I am expanding my technical capabilities in **Python, Pandas, Matplot
 
 ### Core Strengths
 
-- Business Intelligence and Dashboard Development
-- Power BI and DAX
+- Business Intelligence & Dashboard Development
+- Power BI & DAX
 - SQL Analytics
-- Advanced Excel and Power Query
-- Data Cleaning and Data Visualization
-- KPI and Performance Analysis
+- Advanced Excel & Power Query
+- Data Cleaning & Data Visualization
+- KPI & Performance Analysis
 - Financial MIS Reporting
 - Business Requirement Analysis
 - Python for Data Analytics
@@ -144,7 +141,7 @@ A Power BI HR analytics dashboard developed to analyze employee attrition across
 | **Performance** | Interactive filtering across department, salary, role, and experience |
 | **Security** | Structured analytical reporting |
 | **Impact** | Identified high-risk employee segments |
-| **Repository** | [GitHub Profile](https://github.com/rahullll18) |
+| **Repository** | [GitHub](https://github.com/rahullll18) |
 
 ### Professional Explanation
 
@@ -170,7 +167,7 @@ An e-commerce analytics dashboard combining orders, products, customers, and ret
 | **Performance** | Interactive sales and product analysis |
 | **Security** | Structured analytical reporting |
 | **Impact** | Identified revenue concentration and declining products |
-| **Repository** | [GitHub Profile](https://github.com/rahullll18) |
+| **Repository** | [GitHub](https://github.com/rahullll18) |
 
 ### Professional Explanation
 
@@ -196,7 +193,7 @@ An agricultural analytics dashboard developed to compare crop production across 
 | **Performance** | Regional and year-over-year analysis |
 | **Security** | Structured and validated dataset |
 | **Impact** | Reduced identified data errors by approximately 80% |
-| **Repository** | [GitHub Profile](https://github.com/rahullll18) |
+| **Repository** | [GitHub](https://github.com/rahullll18) |
 
 ### Professional Explanation
 
@@ -283,13 +280,127 @@ The cleaning process reduced identified data errors by approximately **80%**, im
 
 ## Certifications
 
-No certification names or credential IDs are listed because they are **not present in the provided resume**.
+Certification names and credential IDs are not included because they were not provided in the available profile information.
 
 Add only verified certifications here.
 
-Example format:
+---
 
-```text
-Provider
-Certification Name
-Credential ID
+## Coding Profiles
+
+Add your actual coding-profile usernames before publishing these links.
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F766E?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-0F172A?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-164E63?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahullll18&show_icons=true&hide_border=true&bg_color=0B1120&title_color=22D3EE&icon_color=14B8A6&text_color=CBD5E1&ring_color=0F766E&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullll18&layout=compact&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=CBD5E1&langs_count=8"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rahullll18&hide_border=true&background=0B1120&ring=0F766E&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahullll18&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahullll18&bg_color=0B1120&color=CBD5E1&line=14B8A6&point=22D3EE&area=true&hide_border=true&custom_title=Rahul%20Kumar%20%E2%80%94%20Contribution%20Activity" width="100%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rahullll18/rahullll18/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rahullll18/rahullll18/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/rahullll18/rahullll18/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Python for Data Analytics
+  - Pandas
+  - Matplotlib
+  - Advanced SQL
+  - BigQuery
+  - Cloud Analytics
+  - Advanced Power BI
+
+Building:
+  - Business Intelligence Dashboards
+  - End-to-End Data Analytics Projects
+  - SQL Analytics Workflows
+  - Data-Driven Business Solutions
+
+Exploring:
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Data Platforms
+  - Analytics Engineering
+  - Scalable Analytics Solutions
+
+Open To:
+  - Data Analyst Roles
+  - Business Intelligence Roles
+  - Power BI Developer Roles
+  - Data Analytics Internships
+  - Analytics Projects
+  - Open Source Collaboration
