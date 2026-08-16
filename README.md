@@ -334,12 +334,13 @@ Supported finance operations and management reporting through structured Excel-b
 
 ## Contribution Snake
 
+## Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rahullll18/rahullll18/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/rahulll18/rahulll18/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-
 ---
 
 ## Current Focus
