@@ -340,8 +340,6 @@ Add your actual coding-profile usernames before publishing these links.
 
 ## Contribution Snake
 
-<div align="center">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -357,8 +355,6 @@ Add your actual coding-profile usernames before publishing these links.
     width="100%"
   />
 </picture>
-
-</div>
 
 ---
 
