@@ -1,5 +1,8 @@
+<table>
+<tr>
+<td width="30%" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtucHQ5NGM3d2tzOGwyN3kyejA0a3RhcncwNGp1dmlrczZ5NGt2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="180" alt="Goku Data Analyst">
+<img src="./assets/goku.gif" width="180" alt="Goku Data Analyst">
 
 </td>
 
@@ -7,13 +10,13 @@
 
 # 👋 Hi, I'm Rahul Kumar
 
-
 ### MBA (Business Analytics) | Aspiring Data Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=SQL+%7C+Power+BI+%7C+Excel+%7C+DAX;Turning+Data+into+Insights;Building+Analytics+Projects;Always+Learning%2C+Always+Improving" />
+**SQL • Power BI • Excel • DAX • VS Code**
 
-</div>
-
+</td>
+</tr>
+</table>
 ---
 
 ## 🧑‍💻 About Me
