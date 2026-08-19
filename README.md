@@ -1,9 +1,6 @@
 <div align="center">
-
-# 👋 Hi, I'm Rahul Kumar
-
-<img src="https://www.gifcen.com/wp-content/uploads/2021/03/goku-gif-14.gif" width="180">
-
+  <img src="./assets/goku.png" width="220" alt="Goku working on data analytics">
+</div>
 ### MBA (Business Analytics) | Aspiring Data Analyst
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=SQL+%7C+Power+BI+%7C+Excel+%7C+DAX;Turning+Data+into+Insights;Building+Analytics+Projects;Always+Learning%2C+Always+Improving" />
