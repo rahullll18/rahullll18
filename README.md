@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="./assets/goku.png" width="220" alt="Goku working on data analytics">
-</div>
+
+# 👋 Hi, I'm Rahul Kumar
+
+<img src="[YOUR_GOKU_GIF_URL](https://www.pinterest.com/pin/811633164070831505/)" width="180">
+
 ### MBA (Business Analytics) | Aspiring Data Analyst
 
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=SQL+%7C+Power+BI+%7C+Excel+%7C+DAX;Turning+Data+into+Insights;Building+Analytics+Projects;Always+Learning%2C+Always+Improving" />
@@ -78,6 +81,8 @@ Currently focused on learning through real-world projects and
 continuous practice.
 
 ---
+
+
 ---
 
 ## 🤝 Let's Connect
