@@ -1,71 +1,73 @@
-# Hi, I'm Rahul Kumar 👋
+<div align="center">
+
+# 👋 Hi, I'm Rahul Kumar
+
+<img src="YOUR_GOKU_GIF_URL" width="180">
 
 ### MBA (Business Analytics) | Aspiring Data Analyst
 
-I'm an MBA Business Analytics student focused on building practical skills in
-**Data Analytics, Business Intelligence, SQL, Power BI, Excel, and DAX.**
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=SQL+%7C+Power+BI+%7C+Excel+%7C+DAX;Turning+Data+into+Insights;Building+Analytics+Projects;Always+Learning%2C+Always+Improving" />
 
-I enjoy turning raw data into meaningful insights, interactive dashboards,
-and business-focused solutions.
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
+I'm an MBA Business Analytics student focused on building practical
+skills in **Data Analytics and Business Intelligence**.
+
+I enjoy working with data, finding patterns, creating dashboards,
+and turning business problems into data-driven insights.
+
 - 🎓 MBA (Business Analytics)
 - 📊 Aspiring Data Analyst
-- 📈 Interested in Data Analytics & Business Intelligence
-- 🗄️ Working with SQL & MySQL
-- 📊 Building dashboards with Power BI
-- 📐 Creating KPIs and measures using DAX
-- 📗 Using Excel for data cleaning and analysis
-- 🚀 Currently building portfolio projects
+- 🗄️ SQL & MySQL
+- 📈 Power BI
+- 📐 DAX
+- 📗 Microsoft Excel
+- 💻 VS Code
+- 🤖 Power BI MCP Server
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Data Analytics
-- SQL
-- MySQL
-- Microsoft Excel
-- Power BI
-- DAX
-- Data Cleaning
-- Data Visualization
-- Business Analysis
+### 📊 Data Analytics
+`SQL` `MySQL` `Excel` `Power BI` `DAX`
 
-### Tools
-- Power BI Desktop
-- MySQL Workbench
-- VS Code
-- Power BI MCP Server
+### 🔧 Tools
+`Power BI Desktop` `MySQL Workbench` `VS Code` `Power BI MCP Server`
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 Sales Analytics Dashboard
+### 📊 Sales Analytics Dashboard
+
 **Excel | MySQL | SQL | Power BI | DAX**
 
-End-to-end sales analytics project transforming raw sales data
+An end-to-end sales analytics project transforming raw sales data
 into an interactive Power BI dashboard.
 
-**Key Areas:**
+**Key Areas**
 - Data Cleaning & Preparation
 - SQL Business Analysis
-- KPI Development
 - DAX Measures
+- KPI Development
 - Interactive Dashboard
 - Business Insights
 
 ---
 
 ### 🏦 Loan Risk & Portfolio Analysis
+
 **Excel | SQL | Power BI**
 
-Upcoming project focused on analyzing loan portfolio performance,
-approval patterns, and customer risk.
+🚧 Currently building...
+
+A scenario-based banking analytics project focused on loan portfolio
+performance, approval patterns, and customer risk.
 
 ---
 
@@ -81,15 +83,153 @@ approval patterns, and customer risk.
 
 ## 🎯 Career Goal
 
-I'm working towards a career in **Data Analytics / Business Intelligence**
-and continuously building practical projects to strengthen my analytical
-and technical skills.
+Building strong practical skills to become a **Data Analyst / Business
+Intelligence professional**.
+
+Currently focused on learning through real-world projects and
+continuous practice.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahullll18&show_icons=true&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rahullll18/rahullll18/output/github-snake.svg" />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-📫 Open to learning, collaboration, internships, and entry-level
-Data Analytics opportunities.
+<div align="center">
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+<a href="<div align="center">
+
+# 👋 Hi, I'm Rahul Kumar
+
+<img src="https://share.google/z5ei85LrvCvf5FVDb" width="180">
+
+### MBA (Business Analytics) | Aspiring Data Analyst
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=SQL+%7C+Power+BI+%7C+Excel+%7C+DAX;Turning+Data+into+Insights;Building+Analytics+Projects;Always+Learning%2C+Always+Improving" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm an MBA Business Analytics student focused on building practical
+skills in **Data Analytics and Business Intelligence**.
+
+I enjoy working with data, finding patterns, creating dashboards,
+and turning business problems into data-driven insights.
+
+- 🎓 MBA (Business Analytics)
+- 📊 Aspiring Data Analyst
+- 🗄️ SQL & MySQL
+- 📈 Power BI
+- 📐 DAX
+- 📗 Microsoft Excel
+- 💻 VS Code
+- 🤖 Power BI MCP Server
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics
+`SQL` `MySQL` `Excel` `Power BI` `DAX`
+
+### 🔧 Tools
+`Power BI Desktop` `MySQL Workbench` `VS Code` `Power BI MCP Server`
+
+---
+---
+
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Advanced Power BI
+- DAX
+- Data Modeling
+- Python for Data Analytics
+
+---
+
+## 🎯 Career Goal
+
+Building strong practical skills to become a **Data Analyst / Business
+Intelligence professional**.
+
+Currently focused on learning through real-world projects and
+continuous practice.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahullll18&show_icons=true&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rahullll18/rahullll18/output/github-snake.svg" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rahulll18/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 「小さな積み重ねが、大きな結果になる。」
+
+**Keep learning. Keep building.**
+
+</div>">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 「小さな積み重ねが、大きな結果になる。」
+
+**Keep learning. Keep building.**
+
+</div>
