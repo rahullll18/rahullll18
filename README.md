@@ -60,15 +60,6 @@ into an interactive Power BI dashboard.
 
 ---
 
-### 🏦 Loan Risk & Portfolio Analysis
-
-**Excel | SQL | Power BI**
-
-🚧 Currently building...
-
-A scenario-based banking analytics project focused on loan portfolio
-performance, approval patterns, and customer risk.
-
 ---
 
 ## 📚 Currently Learning
@@ -90,25 +81,6 @@ Currently focused on learning through real-world projects and
 continuous practice.
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahullll18&show_icons=true&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rahullll18/rahullll18/output/github-snake.svg" />
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect
