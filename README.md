@@ -2,7 +2,7 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="./assets/goku.gif" width="180" alt="Goku Data Analyst">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtucHQ5NGM3d2tzOGwyN3kyejA0a3RhcncwNGp1dmlrczZ5NGt2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="180" alt="Goku Data Analyst">
 
 </td>
 
