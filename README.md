@@ -2,9 +2,11 @@
 
 # 👋 Hi, I'm Rahul Kumar
 
-<img src="https://raw.githubusercontent.com/rahullll18/rahullll18/main/assets/goku.gif" width="160" alt="Goku">
-
 ### MBA (Business Analytics) | Aspiring Data Analyst
+
+📊 SQL & Power BI | 📗 Excel | 📐 DAX
+
+**Turning Data into Insights**
 
 </div>
 
@@ -15,8 +17,8 @@
 I'm an MBA Business Analytics student focused on building practical
 skills in **Data Analytics and Business Intelligence**.
 
-I enjoy working with data, identifying patterns, building interactive
-dashboards, and converting data into meaningful business insights.
+I enjoy analyzing data, finding patterns, building interactive
+dashboards, and converting business problems into data-driven insights.
 
 - 🎓 MBA (Business Analytics)
 - 📊 Aspiring Data Analyst
@@ -31,16 +33,16 @@ dashboards, and converting data into meaningful business insights.
 
 ## 🛠️ Skills
 
-### Data Analytics
+### 📊 Data Analytics
 
 `SQL` `MySQL` `Excel` `Power BI` `DAX`
 
-### Core Skills
+### 📈 Analytics
 
 `Data Cleaning` `Data Analysis` `Data Visualization`
 `Data Modeling` `KPI Development` `Business Analysis`
 
-### Tools
+### 💻 Tools
 
 `Power BI Desktop` `MySQL Workbench` `VS Code`
 `Power BI MCP Server`
@@ -51,38 +53,40 @@ dashboards, and converting data into meaningful business insights.
 
 ### 📊 Sales Analytics Dashboard
 
-**Excel | MySQL | SQL | Power BI | DAX**
+**Excel • MySQL • SQL • Power BI • DAX**
 
-End-to-end sales analytics project transforming raw sales data
+An end-to-end sales analytics project that transforms raw sales data
 into an interactive Power BI dashboard.
 
-**Highlights**
+**Key Features**
 
-- Data Cleaning & Preparation
-- SQL Business Analysis
-- Power BI Data Modeling
-- DAX Measures & KPIs
-- Interactive Dashboard
-- Business Insights
+- 📂 Data Cleaning & Preparation
+- 🗄️ SQL Business Analysis
+- 📊 Power BI Data Modeling
+- 📐 DAX Measures & KPIs
+- 🎯 Interactive Filters
+- 💡 Business Insights
 
 **Key KPIs**
 
-- 💰 Total Sales: **$2.27M**
-- 📈 Total Profit: **$282.87K**
-- 🛒 Total Orders: **4.93K**
-- 📊 Profit Margin: **12.45%**
-- 💳 Average Order Value: **$460.79**
+| Metric | Value |
+|---|---:|
+| 💰 Total Sales | **$2.27M** |
+| 📈 Total Profit | **$282.87K** |
+| 🛒 Total Orders | **4.93K** |
+| 📊 Profit Margin | **12.45%** |
+| 💳 Average Order Value | **$460.79** |
 
 ---
 
 ### 🏦 Loan Risk & Portfolio Analysis
 
-**Excel | SQL | Power BI**
+**Excel • SQL • Power BI**
 
 🚧 **Currently Building**
 
-A scenario-based banking analytics project focused on loan
-portfolio performance, approval patterns, and customer risk.
+A scenario-based banking analytics project focused on loan portfolio
+performance, approval patterns, and customer risk.
 
 ---
 
@@ -96,28 +100,19 @@ portfolio performance, approval patterns, and customer risk.
 
 ---
 
-## 🎯 Career Goal
-
-I'm working towards a career in **Data Analytics / Business Intelligence**.
-
-My focus is on building practical projects that combine
-**technical analysis with real business problems**.
-
----
-
-## 📈 What I'm Building
+## 🔄 My Analytics Workflow
 
 ```text
 Raw Data
-    ↓
-Data Cleaning
-    ↓
-SQL Analysis
-    ↓
-Data Modeling
-    ↓
+   ↓
+Excel
+   ↓
+SQL / MySQL
+   ↓
+Data Analysis
+   ↓
 Power BI
-    ↓
+   ↓
 DAX & KPIs
-    ↓
+   ↓
 Business Insights
