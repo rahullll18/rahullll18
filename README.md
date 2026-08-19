@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rahul Kumar
 
-<img src="YOUR_GOKU_GIF_URL" width="180">
+<img src="https://i.pinimg.com/originals/b9/e3/92/b9e392f05f5ec105c5f6cc303248c032.gif" width="180">
 
 ### MBA (Business Analytics) | Aspiring Data Analyst
 
