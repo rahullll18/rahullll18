@@ -2,11 +2,9 @@
 
 # 👋 Hi, I'm Rahul Kumar
 
-<img src="./assets/goku.gif" width="160" alt="Goku Animation">
+<img src="https://raw.githubusercontent.com/rahullll18/rahullll18/main/assets/goku.gif" width="160" alt="Goku">
 
 ### MBA (Business Analytics) | Aspiring Data Analyst
-
-**SQL • Power BI • Excel • DAX**
 
 </div>
 
