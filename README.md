@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rahul Kumar
 
-<img src="https://share.google/z5ei85LrvCvf5FVDb" width="180">
+<img src="https://www.gifcen.com/wp-content/uploads/2021/03/goku-gif-14.gif" width="180">
 
 ### MBA (Business Analytics) | Aspiring Data Analyst
 
