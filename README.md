@@ -7,7 +7,6 @@
 
 # 👋 Hi, I'm Rahul Kumar
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtucHQ5NGM3d2tzOGwyN3kyejA0a3RhcncwNGp1dmlrczZ5NGt2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="180">
 
 ### MBA (Business Analytics) | Aspiring Data Analyst
 
