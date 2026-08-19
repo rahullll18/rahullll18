@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Rahul Kumar
 
-<img src="YOUR_GOKU_GIF_URL" width="180">
+<img src="./assets/goku.gif" width="160" alt="Goku Animation">
 
 ### MBA (Business Analytics) | Aspiring Data Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=SQL+%7C+Power+BI+%7C+Excel+%7C+DAX;Turning+Data+into+Insights;Building+Analytics+Projects;Always+Learning%2C+Always+Improving" />
+**SQL • Power BI • Excel • DAX**
 
 </div>
 
@@ -17,8 +17,8 @@
 I'm an MBA Business Analytics student focused on building practical
 skills in **Data Analytics and Business Intelligence**.
 
-I enjoy working with data, finding patterns, creating dashboards,
-and turning business problems into data-driven insights.
+I enjoy working with data, identifying patterns, building interactive
+dashboards, and converting data into meaningful business insights.
 
 - 🎓 MBA (Business Analytics)
 - 📊 Aspiring Data Analyst
@@ -31,13 +31,21 @@ and turning business problems into data-driven insights.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### 📊 Data Analytics
+### Data Analytics
+
 `SQL` `MySQL` `Excel` `Power BI` `DAX`
 
-### 🔧 Tools
-`Power BI Desktop` `MySQL Workbench` `VS Code` `Power BI MCP Server`
+### Core Skills
+
+`Data Cleaning` `Data Analysis` `Data Visualization`
+`Data Modeling` `KPI Development` `Business Analysis`
+
+### Tools
+
+`Power BI Desktop` `MySQL Workbench` `VS Code`
+`Power BI MCP Server`
 
 ---
 
@@ -47,16 +55,25 @@ and turning business problems into data-driven insights.
 
 **Excel | MySQL | SQL | Power BI | DAX**
 
-An end-to-end sales analytics project transforming raw sales data
+End-to-end sales analytics project transforming raw sales data
 into an interactive Power BI dashboard.
 
-**Key Areas**
+**Highlights**
+
 - Data Cleaning & Preparation
 - SQL Business Analysis
-- DAX Measures
-- KPI Development
+- Power BI Data Modeling
+- DAX Measures & KPIs
 - Interactive Dashboard
 - Business Insights
+
+**Key KPIs**
+
+- 💰 Total Sales: **$2.27M**
+- 📈 Total Profit: **$282.87K**
+- 🛒 Total Orders: **4.93K**
+- 📊 Profit Margin: **12.45%**
+- 💳 Average Order Value: **$460.79**
 
 ---
 
@@ -64,10 +81,10 @@ into an interactive Power BI dashboard.
 
 **Excel | SQL | Power BI**
 
-🚧 Currently building...
+🚧 **Currently Building**
 
-A scenario-based banking analytics project focused on loan portfolio
-performance, approval patterns, and customer risk.
+A scenario-based banking analytics project focused on loan
+portfolio performance, approval patterns, and customer risk.
 
 ---
 
@@ -75,7 +92,7 @@ performance, approval patterns, and customer risk.
 
 - Advanced SQL
 - Advanced Power BI
-- DAX
+- Advanced DAX
 - Data Modeling
 - Python for Data Analytics
 
@@ -83,50 +100,26 @@ performance, approval patterns, and customer risk.
 
 ## 🎯 Career Goal
 
-Building strong practical skills to become a **Data Analyst / Business
-Intelligence professional**.
+I'm working towards a career in **Data Analytics / Business Intelligence**.
 
-Currently focused on learning through real-world projects and
-continuous practice.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahullll18&show_icons=true&theme=transparent&hide_border=true" />
-
-</div>
+My focus is on building practical projects that combine
+**technical analysis with real business problems**.
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 What I'm Building
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rahullll18/rahullll18/output/github-snake.svg" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rahulll18/">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 「小さな積み重ねが、大きな結果になる。」
-
-**Keep learning. Keep building.**
-
-</div>
+```text
+Raw Data
+    ↓
+Data Cleaning
+    ↓
+SQL Analysis
+    ↓
+Data Modeling
+    ↓
+Power BI
+    ↓
+DAX & KPIs
+    ↓
+Business Insights
